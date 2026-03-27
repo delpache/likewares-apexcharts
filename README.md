@@ -13,7 +13,7 @@ Consultez le projet [Likewares] (https://github.com/likewares-crm-app/likewares-
 Exécutez la commande suivante:
 
 ```bash
-composer require likewares/laravel-apexcharts
+composer require likewares/likewares-apexcharts
 ```
 
 ### 2. Publish
