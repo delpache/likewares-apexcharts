@@ -1,6 +1,6 @@
 {
     "name": "likewares/laravel-apexcharts",
-    "description": "Package ApexCharts pour Laravel",
+    "description": "Package ApexCharts pour les charts.",
     "version": "1.0.0",
     "keywords": [
         "laravel",
@@ -24,7 +24,7 @@
         "php": "^8.0|^8.1|^8.2|^8.3|^8.4",
         "ext-json": "*",
         "balping/json-raw-encoder": "^1.0|dev-master",
-        "illuminate/support": "^9.0|^10.0|^11.0|^12.0"
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0|^13.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.5|^1.6|^1.7",
